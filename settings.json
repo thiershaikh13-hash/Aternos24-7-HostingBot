@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {noob124}
     "username": "imgonnacream",
-    "password": "",
+    "password": "20515831",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "ComboVexytsmp.aternos.me",
+    "port": 23147,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "20515831"
     },
     "anti-afk": {
       "enabled": true,
